@@ -1,0 +1,21 @@
+pip install Flask-SQLAlchemy Flask-Migrate
+
+pip install flask-whooshalchemy
+
+
+on server spark
+
+apt-get update
+apt-get dist-upgrade
+apt-get install -y mongodb
+
+ps aux | grep mongodb
+
+sudo apt-get install python-pip
+sudo pip install Flask
+
+sudo apt-get install nginx
+
+sudo apt-get install gunicorn
+
+pip install Flask-PyMongo

@@ -1,0 +1,3 @@
+ 'NAME': 'homeless',
+ 'USER': 'homeless',
+ 'PASSWORD': 'sanmateo',
